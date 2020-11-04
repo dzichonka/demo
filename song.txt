@@ -3,3 +3,6 @@
 
 еще изменени
 делаю на github
+
+
+changes in bash
