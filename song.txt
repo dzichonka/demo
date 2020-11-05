@@ -1,8 +1,4 @@
 проба пера
 Заслуга моя
 
-еще изменени
-делаю на github
-
-
-changes in bash
+New branch feature and new changes
